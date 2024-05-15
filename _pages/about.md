@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <a href= "(https://as.nyu.edu/departments/linguistics/graduate/graduate-program.html)">NYU Linguistics</a>.
+subtitle:  <a href="https://as.nyu.edu/departments/linguistics/graduate/graduate-program.html"> NYU Linguistics</a>.
 
 profile:
   align: right
