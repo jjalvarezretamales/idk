@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: (they / them / theirs) <a href='[NYU Linguistics](https://as.nyu.edu/departments/linguistics/graduate/graduate-program.html)'>NYU Linguistics</a>.
+subtitle:  <a (they / them / theirs) href='[NYU Linguistics](https://as.nyu.edu/departments/linguistics/graduate/graduate-program.html)'>NYU Linguistics</a>.
 
 profile:
   align: right
