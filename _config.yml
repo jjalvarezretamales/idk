@@ -292,8 +292,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Alvarez Retamales]
-  first_name: [Jose J.]
+  last_name: [Alvarez Retamales, Álvarez Retamales, Álvarez-Retamales, Alvarez-Retamales]
+  first_name: [Jose J., Jose, J., José, José J. José Julián, José Julian]
 
   style: apa
   locale: en
