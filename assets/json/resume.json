@@ -5,7 +5,7 @@
     "image": "",
     "email": "jj.alvarezretamales@nyu.edu",
     "url": "https://jjalvarezretamales.github.io/",
-    "summary": "Puerto Rican sociolinguist insterested in the intersection of Puertorriqueñidad and Blackness through phonetics and discourse",
+    "summary": "Puerto Rican sociolinguist interested in the intersection of Puertorriqueñidad and Blackness through phonetics and discourse",
     "location": {
       "address": "10 Washington Pl",
       "city": "New York, NY",
@@ -180,19 +180,7 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+ <! "projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
@@ -201,5 +189,5 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-  ]
+  ] -- -->
 }
