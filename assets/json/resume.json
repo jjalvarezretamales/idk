@@ -180,7 +180,7 @@
       ]
     }
   ],
- <! "projects": [
+  "projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
@@ -189,5 +189,5 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-  ] -- -->
+  ]
 }
