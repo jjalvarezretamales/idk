@@ -2,21 +2,19 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: José Julián Álvarez Retamales
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 21st May 1995
+
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: New York University, New York
+      year: 2021-present
       description:
-        - Description 1.
-        - Description 2.
+        - Concentration in Sociolinguistics
         - title: Description 3.
           contents:
             - Sub-description 1.
