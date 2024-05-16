@@ -5,7 +5,14 @@
       value: José Julián Álvarez Retamales
     - name: Date of Birth
       value: 21st May 1995
-    - name: email
+    - name: Email
       value: <a href="mailto:jj.alvarezretamales@nyu.edu">jj.alvarezretamales@nyu.edu</a>
-    - name: url
-      value: <a href="https://jjalvarezretamales.github.io"></a>
+    - name: Website
+      value: <a href="https://jjalvarezretamales.github.io">https://jjalvarezretamales.github.io</a>
+
+      
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: New York University, New York, New York
