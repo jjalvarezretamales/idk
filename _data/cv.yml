@@ -15,11 +15,10 @@
     - title: PhD in Linguistics concentration in Sociolinguistics
       institution: New York University, New York City, New York, US
       year: 2021-present
-      description: Advisor: Dr. Renée Blake
+      description: Advisor Dr. Renée Blake
       contents:
             - 'QP1: Quantitative Sociolinguistics'
             - QP2 Qualitative Sociolinguistics   
-            - 
     - title: MA in English concentration in Sociolinguistics
       institution: North Carolina State University, Raleigh, North Carolina, US
       year: 2018-2020
@@ -28,3 +27,4 @@
           value: "Mock Hispanicized English: The case of contested identities, enregistered voice and indirect indexicality"
         - name: Capstone Advisor 
           value: <a href="https://chass.ncsu.edu/people/jlreaser/">Dr. Jeffrey Reaser</a>   
+
