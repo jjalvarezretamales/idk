@@ -16,7 +16,7 @@
   contents:
     - title: PhD in Linguistics concentration in Sociolinguistics
       institution: New York University, New York City, New York, US
-      year: Fall 2021-present
+      year: 2021-present
       contents:
             - name: 'QP1'
               value: Quantitative Sociolinguistics
@@ -25,7 +25,7 @@
     - title: MA in English concentration in Sociolinguistics
       institution: North Carolina State University, Raleigh, North Carolina, US
       year: 2018-2020
-      description:
+      contents:
         - name: Capstone
           value: "Mock Hispanicized English: The case of contested identities, enregistered voice and indirect indexicality"
         - name: Capstone Advisor 
