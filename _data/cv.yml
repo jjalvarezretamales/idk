@@ -36,7 +36,7 @@
   type: time_table
   contents:
     - title: Teaching Assistant - Language and Society
-      institution: New York University, New York
+      institution: New York University, New York, USA
       advisor: <a href="https://www.laurelmackenzie.com/">Dr. Laurel MacKenzie</a>
       year: Fall 2022
       description:
@@ -47,7 +47,7 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Course Assistant - African American English
-      institution: California Institute of Technology, Pasadena, California, US
+      institution: New York University, New York, USA
       year: 1933
       description:
         - Description 1.
