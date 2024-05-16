@@ -4,7 +4,7 @@
     - name: Full Name
       value: José Julián Álvarez Retamales
     - name: Date of Birth
-      value: 21st May 1995
+      value: May 1995
     - name: Email
       value: <a href="mailto:jj.alvarezretamales@nyu.edu">jj.alvarezretamales@nyu.edu</a>
     - name: Website
@@ -18,8 +18,7 @@
       institution: New York University, New York City, New York, US
       year: 2021-present
       contents:
-            - name: 'QP1'
-              value: Quantitative Sociolinguistics
+            - 'QP1: Quantitative Sociolinguistics'
             - name: 'QP2'
               value: Qualitative Sociolinguistics        
     - title: MA in English concentration in Sociolinguistics
@@ -29,6 +28,4 @@
         - name: Capstone
           value: "Mock Hispanicized English: The case of contested identities, enregistered voice and indirect indexicality"
         - name: Capstone Advisor 
-          value: <a href="https://chass.ncsu.edu/people/jlreaser/">Dr. Jeffrey Reaser</a>
-        
-     
+          value: <a href="https://chass.ncsu.edu/people/jlreaser/">Dr. Jeffrey Reaser</a>   
